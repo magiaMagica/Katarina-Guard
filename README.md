@@ -7,3 +7,5 @@ Guard Katarina it's an project of a robot with security purposes for discords Le
 <img height = "100" src="https://cdn.discordapp.com/attachments/1095974097445470238/1095980020503167019/0ob8fhz4v8161.png" align = "right">
 
 The project that is guard katarina might do an role lock on @everyone and set an channel for an message which contains an button that redirects to an riot authentication on the official website, after the verification the user will have the nickname on the local server changed for his riot nickname, the bot purpose is for an server more safe.
+
+~~apologize my bad english~~ 
