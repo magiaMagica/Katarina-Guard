@@ -1,6 +1,6 @@
 <h1 align = "center"> Guard Katarina 👮‍♀️  </h1>
-<img height = "200" src="https://cdn.discordapp.com/attachments/1095974097445470238/1095977186093187072/pngwing.com.png" align = "right">
-Guard Katarina it's an project of a robot with security purposes for discords League of Legends communities on discord
+<img height = "150" src="https://cdn.discordapp.com/attachments/1095974097445470238/1095977186093187072/pngwing.com.png" align = "right">
+Guard Katarina it's an project of a robot with security purposes for discords League of Legends communities on discord and if the project make sucess or i have time to develop more thing to the bot it might be a multiporpose with simple commands but focused on riot game
 
 ## What an Guard Katarina can doe? 🤔
 
